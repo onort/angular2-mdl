@@ -1,0 +1,10 @@
+# Compiled JS
+*.js
+*.map
+
+# Node Modules
+node_modules
+
+# Misc.
+.vscode
+
